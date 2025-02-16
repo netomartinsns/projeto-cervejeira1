@@ -2,14 +2,14 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #583434;
+    background-color: #d9f3f3;
     color: #333;
 }
 
 header {
-    background-color: #4CAF50;
-    color: white;
-    padding: 20px 0;
+    background-color: #ec9b76;
+    color: rgb(19, 16, 16);
+    padding: 22px 0;
     text-align: center;
 }
 
@@ -18,7 +18,11 @@ main {
 }
 
 h2 {
-    color: #4CAF50;
+    color: #010701;
+}
+
+h3 {
+    color: #010701;
 }
 
 section {
@@ -29,7 +33,7 @@ footer {
     background-color: #333;
     color: white;
     text-align: center;
-    padding: 10px 0;
+    padding: 1px 0;
     position: fixed;
     width: 100%;
     bottom: 0;
