@@ -72,3 +72,19 @@ footer {
     bottom: 0;
     box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1);
 }
+
+button {
+    background-color: #ff7f50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #e67348;
+}
