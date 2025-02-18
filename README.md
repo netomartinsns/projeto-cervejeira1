@@ -1,7 +1,7 @@
 # Este projeto esta tomando forma aos poucos. ⛏️
 
 
-## Construção de página para Priscila Pessoa.
+## Construção de página web para Priscila Pessoa.
 
 
 ### Técnologias utilizadas:
