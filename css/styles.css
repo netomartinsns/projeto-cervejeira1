@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #ff7f50;
+    background-color: #7D2F3D;
     color: #fff;
     padding: 20px 0;
     text-align: center;
@@ -30,14 +30,14 @@ section {
 }
 
 h2 {
-    color: #ff7f50;
-    border-bottom: 2px solid #ff7f50;
+    color: #7D2F3D;
+    border-bottom: 2px solid #7D2F3D;
     padding-bottom: 10px;
     margin-bottom: 20px;
 }
 
 h3 {
-    color: #ff7f50;
+    color: #7D2F3D;
     margin-top: 20px;
 }
 
@@ -86,5 +86,5 @@ button {
 }
 
 button:hover {
-    background-color: #e67348;
+    background-color: #7D2F3D;
 }
